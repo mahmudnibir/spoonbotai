@@ -1,5 +1,5 @@
 
-# Pantry Chef AI 🍳🤖
+# SpoonBot AI 🍳🤖
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Vite](https://img.shields.io/badge/Built%20With-Vite-646CFF.svg)
@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6.svg)
 
 ## 🌟 Overview
-**Pantry Chef AI** is a web application designed to help users generate creative and personalized recipes based on the ingredients they have on hand. By leveraging the power of the **Gemini API**, the app reduces food waste and inspires users to explore new meal ideas tailored to their preferences.
+**SpoonBot AI** is a web application designed to help users generate creative and personalized recipes based on the ingredients they have on hand. By leveraging the power of the **Gemini API**, the app reduces food waste and inspires users to explore new meal ideas tailored to their preferences.
 
 
 ## 🚀 Features
@@ -32,12 +32,12 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahmudnibir/Master-Chef.git
+   git clone https://github.com/mahmudnibir/spoonbotai.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd pantry-chef-ai
+   cd spoonbotai
    ```
 
 3. Install dependencies:
@@ -77,9 +77,9 @@ This project is hosted on **Netlify**. To deploy:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Repo stars](https://img.shields.io/github/stars/mahmudnibir/Master-Chef?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mahmudnibir/Master-Chef?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/mahmudnibir/Master-Chef)
+![GitHub Repo stars](https://img.shields.io/github/stars/mahmudnibir/spoonbotai?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mahmudnibir/spoonbotai?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/mahmudnibir/spoonbotai)
 
 ---
 
